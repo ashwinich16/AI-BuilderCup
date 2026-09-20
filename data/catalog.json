@@ -1,0 +1,222 @@
+[
+  {
+    "id": "p1",
+    "name": "Amara Wrap Midi Dress",
+    "category": "dress",
+    "price": 128.0,
+    "color": "rust orange",
+    "fabric": "brushed viscose",
+    "silhouette": "wrap, fit-and-flare",
+    "sleeve_length": "3/4 sleeve",
+    "formality": "semi-formal",
+    "occasion_tags": ["wedding guest", "outdoor", "fall"],
+    "weather_notes": "medium-weight fabric, comfortable 55-75F, not wind-resistant",
+    "image_descriptions": [
+      "Rust-orange wrap dress with a fitted bodice and flared midi skirt, worn outdoors on grass",
+      "Close-up of the fabric showing a soft brushed texture with subtle drape, 3/4 sleeves gathered at the cuff"
+    ],
+    "reviews": [
+      {"rating": 5, "text": "The wrap tie is adjustable and stayed secure all day at an outdoor fall wedding. True to size."},
+      {"rating": 4, "text": "Gorgeous color for autumn but the fabric wrinkles if you sit for a while."},
+      {"rating": 3, "text": "Runs slightly long on my 5'3\" frame, needed to hem it."}
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Solstice Velvet Slip Dress",
+    "category": "dress",
+    "price": 165.0,
+    "color": "deep emerald",
+    "fabric": "stretch velvet",
+    "silhouette": "slip, bias-cut",
+    "sleeve_length": "sleeveless",
+    "formality": "formal",
+    "occasion_tags": ["wedding guest", "evening"],
+    "weather_notes": "warm fabric but sleeveless, best layered with a shawl below 65F",
+    "image_descriptions": [
+      "Deep emerald velvet slip dress with a bias-cut skirt that skims the body, thin adjustable straps",
+      "Detail shot showing the velvet's soft sheen catching indoor light"
+    ],
+    "reviews": [
+      {"rating": 5, "text": "Feels luxurious and the velvet doesn't crush easily. Got so many compliments."},
+      {"rating": 4, "text": "Beautiful but I needed a wrap since it's sleeveless and my wedding was outdoors in October."},
+      {"rating": 5, "text": "Bias cut is very forgiving, fits close without being tight."}
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "Hawthorn Tweed Shift Dress",
+    "category": "dress",
+    "price": 142.0,
+    "color": "camel and cream fleck",
+    "fabric": "wool-blend tweed",
+    "silhouette": "shift, structured",
+    "sleeve_length": "long sleeve",
+    "formality": "semi-formal",
+    "occasion_tags": ["wedding guest", "outdoor", "fall", "daytime"],
+    "weather_notes": "heavier woven fabric, warm to 45F, holds shape in wind",
+    "image_descriptions": [
+      "Camel and cream tweed shift dress with a structured boxy fit, long sleeves, standing in a garden setting",
+      "Close-up of the tweed weave showing a flecked wool-blend texture with visible structure, not stretchy"
+    ],
+    "reviews": [
+      {"rating": 5, "text": "Perfect for an outdoor fall wedding, warm enough without a jacket until sunset."},
+      {"rating": 4, "text": "Structured fit means it doesn't cling, but it's not very stretchy so sitting for long periods feels stiff."},
+      {"rating": 5, "text": "The tweed held up great in the wind, didn't fly around like my friend's chiffon dress."}
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "Meridian Chiffon Maxi Dress",
+    "category": "dress",
+    "price": 118.0,
+    "color": "dusty rose",
+    "fabric": "polyester chiffon, fully lined",
+    "silhouette": "flowy, A-line maxi",
+    "sleeve_length": "sleeveless with shoulder ties",
+    "formality": "semi-formal",
+    "occasion_tags": ["wedding guest", "outdoor", "summer"],
+    "weather_notes": "lightweight, breathable, best above 68F; flows a lot in wind",
+    "image_descriptions": [
+      "Dusty rose flowy chiffon maxi dress with shoulder ties, skirt caught mid-movement by a breeze",
+      "Fabric detail showing sheer, lightweight chiffon layered over a lining"
+    ],
+    "reviews": [
+      {"rating": 3, "text": "Beautiful color but way too light for a fall outdoor wedding, I was cold and the skirt wouldn't stop blowing around."},
+      {"rating": 5, "text": "Perfect for a warm summer garden wedding, very breathable."},
+      {"rating": 4, "text": "Lovely flowy movement but definitely a warm-weather dress."}
+    ]
+  },
+  {
+    "id": "p5",
+    "name": "Fairmont Wool Suit (Jacket + Trouser)",
+    "category": "suit",
+    "price": 210.0,
+    "color": "charcoal grey",
+    "fabric": "wool-blend twill",
+    "silhouette": "tailored, straight-leg trouser",
+    "sleeve_length": "long sleeve jacket",
+    "formality": "formal",
+    "occasion_tags": ["wedding guest", "outdoor", "fall", "professional"],
+    "weather_notes": "heavier fabric, warm to 40F, structured against wind",
+    "image_descriptions": [
+      "Charcoal grey tailored wool suit, fitted blazer and straight-leg trousers, worn outdoors near stone steps",
+      "Close-up of the twill weave showing a fine diagonal texture, structured shoulder"
+    ],
+    "reviews": [
+      {"rating": 5, "text": "Warm enough for an October outdoor wedding and still looked sharp for evening photos."},
+      {"rating": 4, "text": "Tailoring is great off the rack but I'd size down one for a slimmer fit."},
+      {"rating": 5, "text": "Fabric has some stretch in the trousers which I appreciated for sitting through a long ceremony."}
+    ]
+  },
+  {
+    "id": "p6",
+    "name": "Birchwood Corduroy Blazer Dress",
+    "category": "dress",
+    "price": 134.0,
+    "color": "burnt sienna",
+    "fabric": "cotton corduroy",
+    "silhouette": "blazer-style, belted waist",
+    "sleeve_length": "long sleeve",
+    "formality": "semi-formal",
+    "occasion_tags": ["wedding guest", "outdoor", "fall", "daytime"],
+    "weather_notes": "medium-heavy fabric, warm to 50F, some wind resistance",
+    "image_descriptions": [
+      "Burnt sienna corduroy blazer dress with a belted waist and notched lapel, worn outdoors among fall leaves",
+      "Texture close-up showing visible corduroy ridges, medium wale"
+    ],
+    "reviews": [
+      {"rating": 4, "text": "Unique take on wedding-guest attire, warm and stylish, though the belt buckle dug in a bit when seated."},
+      {"rating": 5, "text": "Loved the texture, felt very fall-appropriate and photographed beautifully outdoors."},
+      {"rating": 3, "text": "Corduroy shows creasing after sitting for the ceremony."}
+    ]
+  },
+  {
+    "id": "p7",
+    "name": "Rowan Straight-Leg Jeans",
+    "category": "jeans",
+    "price": 78.0,
+    "color": "mid-wash blue",
+    "fabric": "cotton denim with 2% stretch",
+    "silhouette": "straight-leg, mid-rise",
+    "sleeve_length": "n/a",
+    "formality": "casual",
+    "occasion_tags": ["everyday", "casual outing", "indoor", "outdoor"],
+    "weather_notes": "medium-weight denim, comfortable across most seasons, warm enough for mild cold",
+    "image_descriptions": [
+      "Mid-wash blue straight-leg jeans, mid-rise, standing pose showing a relaxed but tailored leg line",
+      "Close-up of the denim weave showing a classic twill texture with slight stretch"
+    ],
+    "reviews": [
+      {"rating": 5, "text": "The 2% stretch makes these way more comfortable than rigid denim, easy to move in all day."},
+      {"rating": 4, "text": "True to size, mid-rise sits comfortably without digging in when seated."},
+      {"rating": 4, "text": "Great everyday jeans, held their shape after several washes."}
+    ]
+  },
+  {
+    "id": "p8",
+    "name": "Dalton Vintage Wide-Leg Jeans",
+    "category": "jeans",
+    "price": 92.0,
+    "color": "dark indigo",
+    "fabric": "rigid cotton denim",
+    "silhouette": "wide-leg, high-rise",
+    "sleeve_length": "n/a",
+    "formality": "casual",
+    "occasion_tags": ["everyday", "casual outing", "fall", "indoor", "outdoor"],
+    "weather_notes": "heavier rigid denim, warm to 45F, no stretch",
+    "image_descriptions": [
+      "Dark indigo wide-leg jeans, high-rise waist, wide flowing leg opening, worn with sneakers",
+      "Detail shot of the rigid denim's deep indigo dye and visible stitching"
+    ],
+    "reviews": [
+      {"rating": 5, "text": "Love the vintage wide-leg cut, very flattering and warm for fall days."},
+      {"rating": 3, "text": "No stretch at all so they take a wash or two to break in and soften up."},
+      {"rating": 4, "text": "High-rise stays put, great with a tucked-in top."}
+    ]
+  },
+  {
+    "id": "p9",
+    "name": "Sable Silk Button-Down Top",
+    "category": "top",
+    "price": 68.0,
+    "color": "ivory",
+    "fabric": "100% silk",
+    "silhouette": "relaxed button-down",
+    "sleeve_length": "long sleeve",
+    "formality": "semi-formal",
+    "occasion_tags": ["work", "date", "indoor", "everyday"],
+    "weather_notes": "lightweight silk, best layered in cold weather, breathable indoors",
+    "image_descriptions": [
+      "Ivory silk button-down top with a relaxed fit and long sleeves, worn tucked into trousers",
+      "Close-up of the silk's smooth sheen and mother-of-pearl buttons"
+    ],
+    "reviews": [
+      {"rating": 5, "text": "Feels luxurious against the skin and drapes beautifully, great for the office or a dinner out."},
+      {"rating": 4, "text": "Gorgeous top but silk needs careful washing, I hand-wash mine."},
+      {"rating": 5, "text": "Pairs perfectly with jeans for a smart-casual look."}
+    ]
+  },
+  {
+    "id": "p10",
+    "name": "Marlowe Ribbed Knit Top",
+    "category": "top",
+    "price": 44.0,
+    "color": "heather grey",
+    "fabric": "ribbed cotton-modal blend",
+    "silhouette": "fitted, crew neck",
+    "sleeve_length": "long sleeve",
+    "formality": "casual",
+    "occasion_tags": ["everyday", "casual outing", "fall", "winter", "indoor", "outdoor"],
+    "weather_notes": "midweight ribbed knit, warm to 50F on its own, layers well below that",
+    "image_descriptions": [
+      "Heather grey ribbed knit top with a fitted crew neck, worn with jeans in an outdoor setting",
+      "Close-up of the ribbed knit texture showing visible vertical ribbing"
+    ],
+    "reviews": [
+      {"rating": 5, "text": "Soft, warm, and stretchy, my go-to fall layering top."},
+      {"rating": 4, "text": "Fits true to size and holds its shape wash after wash."},
+      {"rating": 3, "text": "A bit thin on its own in real cold, I layer it under a jacket."}
+    ]
+  }
+]

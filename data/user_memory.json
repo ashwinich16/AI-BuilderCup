@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2026-09-19T17:14:49",
+    "product_id": "p8",
+    "product_name": "Dalton Vintage Wide-Leg Jeans",
+    "decision": "accepted",
+    "reason": "2 of 3 reviewers rated it 4 stars or higher"
+  },
+  {
+    "timestamp": "2026-09-19T17:14:49",
+    "product_id": "p7",
+    "product_name": "Rowan Straight-Leg Jeans",
+    "decision": "rejected",
+    "reason": "chose Dalton Vintage Wide-Leg Jeans instead"
+  }
+]
